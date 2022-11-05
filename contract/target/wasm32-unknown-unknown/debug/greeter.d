@@ -1,0 +1,1 @@
+/home/andoni/CRYPTO/DECENTRALIZED\ JOURNAL\ BLOCKUMENT/new_blockument/journal/contract/target/wasm32-unknown-unknown/debug/greeter.wasm: /home/andoni/CRYPTO/DECENTRALIZED\ JOURNAL\ BLOCKUMENT/new_blockument/journal/contract/src/lib.rs /home/andoni/CRYPTO/DECENTRALIZED\ JOURNAL\ BLOCKUMENT/new_blockument/journal/contract/src/manuscript.rs

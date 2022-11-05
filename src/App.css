@@ -1,0 +1,37 @@
+body, html { 
+  font-family: 'Georgia', serif;
+}
+
+main {
+  min-height: 70vh; 
+}
+
+
+h1 {
+  text-align: center;
+}
+
+
+.default-row-spacer{
+  margin-top: 2rem;
+  margin-bottom: 1rem;
+}
+
+.border-left {
+  border-left: 1px solid rgb(206, 206, 206);
+}
+
+a, u {
+  text-decoration: none;
+  color: inherit; 
+}
+
+a:hover {color: #000000;}  
+.no-padding {
+  padding: 0.35em 0em;
+}
+
+.home-background {
+background: rgb(93,120,136);
+background: linear-gradient(8deg, rgba(93,120,136,1) 0%, rgba(132,149,171,1) 30%, rgba(178,189,203,1) 60%, rgba(234,236,238,1) 100%);}
+

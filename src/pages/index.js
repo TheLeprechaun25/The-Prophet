@@ -1,0 +1,9 @@
+export { default as Home } from './Home';
+export { default as Read } from './Read';
+export { default as Submit } from './Submit';
+export { default as Review } from './Review';
+export { default as SubmitReview } from './SubmitReview';
+export { default as About } from './About';
+export { default as Profile } from './Profile';
+export { default as ManuscriptView } from './ManuscriptView';
+export { default as PageNotFound } from './PageNotFound';
